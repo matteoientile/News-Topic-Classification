@@ -4,7 +4,7 @@
 **Context:** Machine Learning Exam - Winter 2026
 
 ## 📌 Project Overview
-This repository contains the solution for the News Topic Classification problem. The project implements a Machine Learning pipeline to classify news articles into distinct categories, addressing challenges such as high dimensionality and class imbalance.
+This repository contains the solution for the News Topic Classification problem. The project implements a Machine Learning pipeline to classify news articles into distinct categories, addressing challenges such as high dimensionality and class imbalance. The optimal solution is ranked in top 25% across a leaderboard of 200+ people.
 
 The solution is divided into two distinct parts:
 1.  **Exploration & Tuning:** Deep analysis and hyperparameter search.
