@@ -27,6 +27,7 @@ The solution is divided into two distinct parts:
 | `1_Exploration_and_Tuning.ipynb` | **Analysis & R&D.** Contains Exploratory Data Analysis (EDA), split strategy, and extensive Hyperparameter Tuning. |
 | `2_Final_Model_Solution.ipynb` | **Production Pipeline.** The final, reproducible solution using the best hyperparameters found. It retrains on the full Development set and generates the submission CSV quickly. |
 | `requirements.txt` | List of Python dependencies required to run the environment. |
+| `Report.pdf` | Official IEEE-format report describing the pipeline. |
 
 ---
 
