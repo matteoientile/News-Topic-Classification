@@ -1,6 +1,7 @@
 # News Topic Classification 📰
 
 **Student:** Matteo Ientile
+
 **Context:** Data Science & Machine Learning Exam - Winter 2026
 
 ## 📌 Project Overview
